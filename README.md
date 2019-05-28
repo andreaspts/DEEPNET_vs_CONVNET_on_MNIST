@@ -182,3 +182,6 @@ In case one desires to have an output feature map which has the same spatial dim
 
 ## Instructions
 The relevant files for this analysis are attached: `FCC_vs_CONVNET.py`, `FCC_vs_FCC.py` and `CONVNET_vs_CONVNET.py`.
+
+## License
+This repository is licensed under the MIT License.
