@@ -11,7 +11,9 @@ In the following we seek to apply a simple fully connected network and a convnet
 
 Generally speaking, the goal is to feed the networks with the training set, to learn to classify numbers from 0 to 9 and then to test the learnt classification scheme on the test set. The underlying insight to use deep neural networks for such a task (essentially a fitting-to-data problem) is that they are very powerful [function approximators](https://en.wikipedia.org/wiki/Universal_approximation_theorem).
 
-In the following, we will first explain some details regarding convolutional neural networks and then compare the performance of both network architectures on the dataset. Afterwards, we discuss the impact of different optimizers and how overfitting can be easily dealt with. This analysis was done with python 3.6 with the keras library mounted.
+In the following, we will first explain some details regarding convolutional neural networks and then compare the performance of both network architectures on the dataset. Afterwards, we discuss the impact of different optimizers and how overfitting can be easily dealt with. 
+
+This readme file integrates some basic documentation, instructions and results. The analysis was done with python 3.6 with the keras library mounted. Instructions regarding files are attached at the end.
 
 ### Network architectures
 
